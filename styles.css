@@ -12,9 +12,9 @@ div#navigation li{margin-bottom:5px;}
 div#extra{background:#CCC8B3;}
 div#footer{background:#BFBD93;}
 div#footer p{margin:0;padding:5px 10px}
-div#container{width:700px;margin:0 auto}
-div#content{float:left;width:auto}
-div#navigation{float:right;width:200px}
+div#container{width:100%;margin:0 auto}
+div#content{float:left;width:100%}
+div#navigation{float:right;width:100%}
 div#extra{clear:both;width:100%}
 .button {
   background-color: #4CAF50; /* Green */
